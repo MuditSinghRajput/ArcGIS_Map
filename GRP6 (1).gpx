@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="EasyGPS 7.10 using Garmin Montana 650" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd">
+<metadata>
+<bounds minlat="26.18369700" minlon="91.69150900" maxlat="26.19766900" maxlon="91.70267700"/>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2023-02-02T10:43:28.180Z</time>
+</extensions>
+</metadata>
+<wpt lat="26.18475500" lon="91.69337500">
+<ele>-73.159</ele>
+<time>2023-02-02T08:54:39Z</time>
+<name>Anexure Buiding</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Anexure Buiding</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.18369700" lon="91.69598100">
+<ele>-55.451</ele>
+<time>2023-02-02T09:01:13Z</time>
+<name>K V GATE</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>K V GATE</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.18509300" lon="91.69874500">
+<ele>-47.097</ele>
+<time>2023-02-02T09:04:10Z</time>
+<name>BRAHMAPUTRA HOSTEL BACKGATE</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BRAHMAPUTRA HOSTEL BACKGATE</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.18675900" lon="91.70075800">
+<ele>-38.075</ele>
+<time>2023-02-02T09:07:00Z</time>
+<name>FACULTY GATE</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>FACULTY GATE</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.18756500" lon="91.69998900">
+<ele>-32.571</ele>
+<time>2023-02-02T09:09:17Z</time>
+<name>DIHING HOSTEL</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>DIHING HOSTEL</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.18902600" lon="91.70031200">
+<ele>-26.948</ele>
+<time>2023-02-02T09:12:19Z</time>
+<name>Manas community hall</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Manas community hall</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.18895600" lon="91.70196100">
+<ele>-19.257</ele>
+<time>2023-02-02T09:14:17Z</time>
+<name>Umiam hostel</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Umiam hostel</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.19106000" lon="91.70146100">
+<ele>-12.832</ele>
+<time>2023-02-02T09:17:12Z</time>
+<name>Kameng hostel</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Kameng hostel</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.19205100" lon="91.70157600">
+<ele>-5.700</ele>
+<time>2023-02-02T09:22:59Z</time>
+<name>Guwhati biotech park</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Guwhati biotech park</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.19208000" lon="91.70265700">
+<ele>-0.568</ele>
+<time>2023-02-02T09:24:56Z</time>
+<name>Carwashing center</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Carwashing center</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.19434800" lon="91.70259200">
+<ele>-1.753</ele>
+<time>2023-02-02T09:26:54Z</time>
+<name>Cricket ground 2</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Cricket ground 2</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.19766900" lon="91.70267700">
+<ele>8.100</ele>
+<time>2023-02-02T09:31:24Z</time>
+<name>North west corner point</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>North west corner point</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.19686100" lon="91.70077700">
+<ele>10.952</ele>
+<time>2023-02-02T09:33:58Z</time>
+<name>Aseb gate4</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Aseb gate4</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.19573700" lon="91.70081600">
+<ele>12.778</ele>
+<time>2023-02-02T09:35:33Z</time>
+<name>Uttat pradesh rajkiya nirman</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Uttat pradesh rajkiya nirman</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.19576700" lon="91.69909400">
+<ele>16.484</ele>
+<time>2023-02-02T09:38:20Z</time>
+<name>MSH HOSTEL</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>MSH HOSTEL</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.19406700" lon="91.69891100">
+<ele>17.860</ele>
+<time>2023-02-02T09:40:57Z</time>
+<name>Dhanshree hostel</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Dhanshree hostel</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.19357500" lon="91.69925700">
+<ele>19.495</ele>
+<time>2023-02-02T09:43:11Z</time>
+<name>Powerhouse iitg</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Powerhouse iitg</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.19278600" lon="91.69894400">
+<ele>20.621</ele>
+<time>2023-02-02T09:44:52Z</time>
+<name>New SAC</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>New SAC</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.19246200" lon="91.69945400">
+<ele>21.908</ele>
+<time>2023-02-02T09:46:29Z</time>
+<name>Food court IITG</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Food court IITG</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.19162900" lon="91.69831900">
+<ele>23.592</ele>
+<time>2023-02-02T09:48:45Z</time>
+<name>Swimming pool area</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Swimming pool area</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.19149700" lon="91.69781200">
+<ele>25.270</ele>
+<time>2023-02-02T09:51:44Z</time>
+<name>Central GYM</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Central GYM</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.19258600" lon="91.69570600">
+<ele>29.103</ele>
+<time>2023-02-02T09:55:02Z</time>
+<name>Old gymkhana</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Old gymkhana</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.19247300" lon="91.69625900">
+<ele>29.885</ele>
+<time>2023-02-02T09:56:24Z</time>
+<name>Football ground</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Football ground</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.19245000" lon="91.69690800">
+<ele>30.643</ele>
+<time>2023-02-02T09:57:42Z</time>
+<name>Athlete ground</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Athlete ground</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.19214900" lon="91.69541000">
+<ele>32.118</ele>
+<time>2023-02-02T10:00:55Z</time>
+<name>Tennis court</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Tennis court</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.19087300" lon="91.69619500">
+<ele>34.507</ele>
+<time>2023-02-02T10:04:00Z</time>
+<name>Cricketground 1</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Cricketground 1</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.18976200" lon="91.69710400">
+<ele>33.320</ele>
+<time>2023-02-02T10:06:33Z</time>
+<name>Siang hostel</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Siang hostel</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.18948300" lon="91.69797900">
+<ele>35.287</ele>
+<time>2023-02-02T10:08:01Z</time>
+<name>Lohit maingate</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Lohit maingate</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.18819900" lon="91.69670600">
+<ele>38.095</ele>
+<time>2023-02-02T10:10:27Z</time>
+<name>KAPILI HOSTEL</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>KAPILI HOSTEL</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.18716700" lon="91.69587700">
+<ele>37.198</ele>
+<time>2023-02-02T10:12:39Z</time>
+<name>Dibaang hostel backside</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Dibaang hostel backside</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.18618600" lon="91.69511300">
+<ele>40.120</ele>
+<time>2023-02-02T10:15:25Z</time>
+<name>Waterplant</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Waterplant</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.18620100" lon="91.69437000">
+<ele>43.505</ele>
+<time>2023-02-02T10:17:00Z</time>
+<name>Waterplant mountain</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Waterplant mountain</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.18622400" lon="91.69675100">
+<ele>41.222</ele>
+<time>2023-02-02T10:19:03Z</time>
+<name>Disang hostel</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Disang hostel</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.18926600" lon="91.69541600">
+<ele>42.266</ele>
+<time>2023-02-02T10:22:33Z</time>
+<name>IITG LAKE</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>IITG LAKE</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.18930100" lon="91.69451000">
+<ele>45.796</ele>
+<time>2023-02-02T10:24:14Z</time>
+<name>Establishment centre</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Establishment centre</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.18978500" lon="91.69336800">
+<ele>44.432</ele>
+<time>2023-02-02T10:27:29Z</time>
+<name>Souvenr shop</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Souvenr shop</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.18959500" lon="91.69314400">
+<ele>46.844</ele>
+<time>2023-02-02T10:28:12Z</time>
+<name>IITG LIBRARY</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>IITG LIBRARY</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.18916100" lon="91.69183400">
+<ele>43.742</ele>
+<time>2023-02-02T10:31:10Z</time>
+<name>Lecturehall complex</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Lecturehall complex</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.18826000" lon="91.69150900">
+<ele>43.848</ele>
+<time>2023-02-02T10:32:44Z</time>
+<name>Academic complex core 1</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Academic complex core 1</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.18722700" lon="91.69258800">
+<ele>46.989</ele>
+<time>2023-02-02T10:35:09Z</time>
+<name>Core 2</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Core 2</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.18617500" lon="91.69279500">
+<ele>47.612</ele>
+<time>2023-02-02T10:36:48Z</time>
+<name>24 HOUR CANTEEN CORE</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>24 HOUR CANTEEN CORE</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="26.18537400" lon="91.69236400">
+<ele>46.900</ele>
+<time>2023-02-02T10:38:48Z</time>
+<name>Core 3</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Core 3</label_text>
+</label>
+</extensions>
+</wpt>
+<extensions>
+</extensions>
+</gpx>
